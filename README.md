@@ -3,5 +3,6 @@ Trabajos realizados en la Diplomatura en Inteligencia Artificial dictado en el 2
 
 
 https://www.austral.edu.ar/
+
 https://www.austral.edu.ar/diplomatura-en-inteligencia-artificial/
 
