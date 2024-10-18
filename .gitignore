@@ -1,0 +1,4 @@
+**/TF-Diplo/DataSet
+*.keras
+*.tf
+*.h5
